@@ -57,15 +57,15 @@ void peek()
 }
 int main()
 {
-	
-	
+
+
 	while (1)
 	{
 		printf("\nSTACK MENU.\n");
 		printf("1. Create a empty stack \n2. PUSH \n3. POP \n4. Display \n5. Peek \n6. Exit");
 		printf("\nEnter your choice:");
 		scanf("%d",&ch);
-			
+
 		switch (ch)
 		{
 			case 1:
